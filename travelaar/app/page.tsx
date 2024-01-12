@@ -1,8 +1,8 @@
 import Hero from '@/components/Hero'
-import Camp from '@/components/camp'
-import Features from '@/components/features'
-import Getapp from '@/components/getapp'
-import Guide from '@/components/guide'
+import Camp from '@/components/Camp'
+import Features from '@/components/Features'
+import Getapp from '@/components/Getapp'
+import Guide from '@/components/Guide'
 import Image from 'next/image'
 
 export default function Home() {
